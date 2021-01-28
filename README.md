@@ -1,4 +1,4 @@
 # fakenewsdetection
 Fake News Detection
 
-Go the WIKI for the full Project Report
+Go the Fake News Detection Wiki: https://github.com/elleaminuddin/fakenewsdetection/wiki/Fake-News-Detection for the full Project Report
